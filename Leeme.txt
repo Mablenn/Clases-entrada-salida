@@ -1,0 +1,7 @@
+
+/*------- CLASES
+InputStreamReader
+BufferedReader
+
+/*------- METODOS
+String readLine()
