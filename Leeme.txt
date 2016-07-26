@@ -8,7 +8,7 @@ String readLine()
 
 /*
 	Empezando con el control de versiones.
-A partir de ahora, cada cambio será controlado a través de GitHub
+A partir de ahora, cada cambio será controlado a través de Git
 */
 
 
