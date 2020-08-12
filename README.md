@@ -1,1 +1,1 @@
-# ClasesSalida
+# Clases de salida
