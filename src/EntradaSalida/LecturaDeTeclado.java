@@ -7,12 +7,12 @@ import java.io.InputStreamReader;
 
 public class LecturaDeTeclado {
     public static void main(String[] args) throws IOException{
-        System.out.println("Escribe una frase: ");
+        System.out.println("Intruduce un texto: ");
         InputStreamReader isr = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(isr);
-        //En una linea
+        //Podemos ahorrar código y hacerlo en una línea
         //BufferedReader br2 = new BufferedReader(new InputStreamReader(System.in));
-        String frase = br.readLine();
-        System.out.println("Esta es la frase escrita: " + frase);
-    }//Fin método main
+        String textoEntrada = br.readLine();
+        System.out.println("Este es el texto de entrada: " + textoEntrada);
+    }
 } //Fin clase
