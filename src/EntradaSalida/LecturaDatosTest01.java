@@ -1,3 +1,4 @@
+package EntradaSalida;
 /*
     Este ejemplo lee un flujo de datos a través de la entrada estándar (teclado)
     y a continuación los muestra por la salida estándar (pantalla)
